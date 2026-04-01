@@ -2,9 +2,7 @@
 
 [English](./README.en.md) | 简体中文
 
-## 源码学习文档
-欢迎体验：https://cloud-code-study.vercel.app/
-- https://github.com/Janlaywss/cloud-code-study
+
 
 ## 食用指南
 - 本仓库已经还原好源码，看 claude-code-source 目录
