@@ -2,9 +2,7 @@
 
 English | [简体中文](./README.md)
 
-## Source Code Study Docs
-Welcome to try it: https://cloud-code-study.vercel.app/
-- https://github.com/Janlaywss/cloud-code-study
+
 
 ## How to Use
 - The source code in this repository has already been restored. See the `claude-code-source` directory.
